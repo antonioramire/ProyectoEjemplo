@@ -1,6 +1,6 @@
 # ProyectoEjemplo
-Mi primer repositori de Github
+Mi primer repositorio de Github
 
-Autor: Juan Pichardo Pereira
+Autor: Juan Pichardo Pereira: CFGS
 
 
